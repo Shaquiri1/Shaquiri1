@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Florian Weber
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m into coding
+- 🌱 I’m allways learning ...
 - 📫 How to reach me: florian.weber261199@gmail.com
 
 <!---
